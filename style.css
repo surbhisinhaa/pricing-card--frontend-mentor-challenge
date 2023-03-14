@@ -98,5 +98,10 @@ ul{
     opacity: 0.7;
 
 }
+button:hover{
+    cursor: pointer;
+    background-color:hsl(71, 44%, 50%) ;
+    transform: scale(1.02);
+}
 
 
